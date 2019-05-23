@@ -1,0 +1,11 @@
+sudo apt install nodejs
+sudo apt install npm
+npm init
+sudo npm install express -save
+sudo npm install nodemon -g
+sudo npm install ejs -save
+sudo npm install body-parser
+sudo npm install --save mongoose
+
+
+
