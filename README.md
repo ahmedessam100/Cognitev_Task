@@ -21,6 +21,6 @@
 
 1 - ``` nodemon app.js ```
 
-2 - To Enter Data ``` http://localhost:5000/api ```
+2 - To Enter Data ``` http://localhost:5000/api ``` 
 
-3 - To View Data ``` http://localhost:5000
+3 - To View Data ``` http://localhost:5000```
