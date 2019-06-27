@@ -5,7 +5,7 @@
 ## Project procedures :
 #### 1 - Creating RESTful api.
 #### 2 - Pre-processing the data.
-#### 4 - Visualizing the data on the dashboard.
+#### 3 - Visualizing the data on the dashboard.
 
 ## Requirments:
 ``` sudo apt install nodejs ``` <br />
